@@ -1,0 +1,54 @@
+$the_cow = <<EOC;
+
+
+$thoughts
+$thoughts
+	      \\                 `-:///++++++////::::::://://:::-.`    
+	       \\          .-::-.````                      ```.:///:.                             
+                \\       .--.`                                     `.://-                          
+                 \\     `:-`                                            `-+:                        
+                  \\   :/`                                                `:o.                      
+                      +/                                                    .o/                     
+                     /o                                                     `s+                    
+                    -h`                                                      `h+                   
+                    h/                                                         :m-                  
+                   :m`                                                          hy                  
+                   hs                                                           :N
+                  -N/                                                           `m`                 
+                  oN-``                                                          h:                 
+                  hMddhhhhhhhhhhhyyyyyyyyyyyyyysssssssssssooooooooooooo+++++++ooohd`                
+                  dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/                
+                  dMNNmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMM+                
+                 .msd./sssssssyyyyyhhhhhhhhhho++ossssssshdmmmmdmmddddddhhyyss:--ydMo                
+                :md`h`ydMMMMMMMMMMMMMMMMMMMNh`          /NMMMMMMMMMMMMMMMMMmm.  d:mN+               
+               /NNd`h`syMMMMMMMMMMMMMMMNds/.   ``..-.``` .sNMMMMMMMMMMMMMMMom`` h:ddd:              
+              .sNh+`h//mmMMMMMMMMMMNmy/.    `/o+/:::/+oo+. `/yNMMMMMMMMMMMss:yh.y:Nmss/             
+              +sm.`-hds//mMMMMMMmy+-        ..          ``    `:sdNMMMMMMy```NNys+Nmhod`            
+              /smymssmm` .sdho/.    ./sh+                   :+.   .:oyhs:   /MdNy+/osNy             
+               `MMhd+dN/        `:smMNy:                    `sNms/.        `dMhdys-MMm`             
+                Nm/m:NMm.  `-/sdNNdo:`                        .odMMmyo/:-.-hMMhdsd`yds              
+               .MN+d-mNMmdmNmdyo:`                               .:+shddmNMMMMsh-d.+md-             
+             -yNms/y`dNMMd-.`                                           ``hMMN-. /+.osds.           
+           :ys/.`/s- yMMM-                   -+ydmNNmho:`                 /MN:    /: `-+o+-         
+          od. `+y:   -dNN                 -odNMMMMMMMMMMms:`              `M/     -yd+.  .so`       
+         /N- /mMNy`   `yd              `/hNMMMMMMMMMMMMMMMNd+.             o:   -yNNMMNy- `h:       
+         hs sNMmmMh`   +:           `:smMMMMNdyo+/:::/+shNMMMms.              `odhNNmMmoh/ -s       
+         d+:mNMhyhNs              .+dNMMNds/.`          `./hNMMNs-           .ydysyNMh- .d-`s       
+         oyss:mdsshNo        `-///yhhyo:.`                 `./shdds/.       :mhhmddNo`   /y.o       
+         `smy :myysmm:    `.:+:.`  `                           ```.-/o:    :mdhhdMd:     :No-       
+          `/d+ :mmh+::::/++:.                                        .+s:  `/ydmNs.     .hy.        
+            `/+.-/oo/--..`                                             .+o/-.`.+:     `:o:`         
+              .+/y-                            `.----..`                 `-/+oso+-   -+:`           
+                od                          `/yso/:::/+oo.                    `.:oo-//`             
+                `d                         .yy/ymmdddd+`:d-                       -do               
+                 y.                       .y:yNMMMMMMMNo./h                        +.               
+                 +/          ````        .o`/MMMMMMMMMMMo s/     `....`            /                
+                 :y       ./oodddhs:`   -o.-dMMMMMMMMMMM/ `y/`.-odNMNys+`          +                
+                 `d-     :do`/MMMMMMms/sy`sMMMMMMMMMMMMMmo`+dymMMMMMMo :s`        -/                
+                  :y`    yd  /MMMMMMN+.+o dMMMMMMMMMMMMMMN.d-.mMMMMMM/  s-      `:/`                
+                   -s.   +m. `hMMMMN/  o+ sMMMMMMMMMMMMMNs yo :mNMMNs` `h.    `-+-                  
+                    `:/-``+d+.`:oo+.   :` `oNMMMMMMMMMMd/  .o  `:/:.  .ys  `./+-                    
+                       -/+++shdyo+////:  .+o-/sdmmmmhs/+:`  `::-..-:ohm+.://:`                      
+                          `-+ooyhhhysoo/:-              -oo+:-:syyhdds//:.                          
+                                                           `.-:::--`      
+EOC
