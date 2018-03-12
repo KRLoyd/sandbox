@@ -8,3 +8,7 @@
 
    This project was to create a Docker image for the Holberton School / Docker Hackathon on 2/25/17  
    The Docker image created was ASCII art of a Stormtrooper with quotes from Star Wars movies.
+
+- jokeTweets
+
+   This project is to practice using the Twitter API.
